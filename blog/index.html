@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Moc Blog</title>
+    <meta name="description" content="Whether you want to convince someone that their computer is updating or just add some humor to your next video call, MocUpdate.tech has got you covered. Check out our collection today and let me know what you think! ">
+    <link rel="icon" type="image/png" href="cur.png" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <article>
+        <header style="background-image: linear-gradient(
+          rgba(0, 0, 0, 0.3), 
+          rgba(0, 0, 0, 0.3)
+        ), url('https://source.unsplash.com/random/?dark&1&auto=format&fit=crop&w=2073&q=80');">
+		<div class="upper-header">
+			<div class="mini-title">arunya goojar</div>
+			<div class="date-since">
+				<p><span class="date-value" id="sinceData"></span></p>
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" style="display: none;">
+					<defs>
+						<style>
+							.d {
+								width: 20px;
+								fill: #fff;
+								opacity: .5;
+							}
+						</style>
+					</defs>
+					<path class="d" d="M15,0C6.75,0,0,6.75,0,15s6.75,15,15,15,15-6.75,15-15S23.25,0,15,0Zm7.35,16.65h-7.35c-.83,0-1.5-.67-1.5-1.5V7.8c0-.9,.6-1.5,1.5-1.5s1.5,.6,1.5,1.5v5.85h5.85c.9,0,1.5,.6,1.5,1.5s-.6,1.5-1.5,1.5Z" />
+				</svg>
+			</div>
+		</div>
+		<div class="lower-header">
+			<h1 class="title"> Moc Blog</h1>
+            <p>Tech Tips and Tricks</p>
+		</div>
+	</header>
+
+        <main>
+            <section class="main-article">
+                <section class="summary" id="blog-list" style="box-shadow: 0 0 0 0px #f2f2f2; padding: 20px 20px 0px 20px;">
+                    <!-- This section will be populated with blog posts from the JSON file -->
+                </section>
+
+                <section id="blog-post" style="display:none;">
+                    <!-- This section will be used to display individual blog posts -->
+                    <h3 id="post-title"></h3>
+                    <span id="post-date"></span>
+                    <div id="post-content"></div>
+                </section>
+            </section>
+        </main>
+    </article>
+    
+    <div class="inner-cursor"></div>
+    <div class="outer-cursor"></div>
+    <script src="script.js"></script>
+</body>
+
+</html>
