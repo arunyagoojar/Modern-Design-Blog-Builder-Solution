@@ -41,6 +41,7 @@
 }
 
 body {
+    background-color: #fbfbf8;
   display: flex;
   justify-content: center;
   width: 100%;
@@ -139,10 +140,16 @@ body article header .lower-header p {
 }
 
 body .summary {
-    display: grid;
-    justify-content: space-between;
-    grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
-    grid-row-gap: 60px;
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  grid-row-gap: 60px;
+}
+@media (max-width: 1000px) {
+  body .summary {
+    grid-template-columns: 1fr;
+  }
 }
 body .summary h3{
     font-size: 1.8em;
