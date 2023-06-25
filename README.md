@@ -14,5 +14,5 @@ The editing rules for the JSON content will soon be published. The basic structu
 
 ## Example Site
 
-An example of the site can be seen [here](https://mocupdate.tech/blog/index.html). This will give you an idea of what the final product might look like once you have edited the JSON file to include your own content.
+An example of the site can be seen [here](https://arunyagoojar.me/blog/index.html). This will give you an idea of what the final product might look like once you have edited the JSON file to include your own content.
 
