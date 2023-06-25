@@ -1,6 +1,6 @@
 # Modern Design Blog Builder Using HTML/CSS/JS/JSON
 
-Note : currently this solution will support blog under 2000 characters.
+Note : currently this solution will support blog under 2000 characters. (testing for more characters is in progress)
 
 This project is a solution for developers and technical people who have basic web development knowledge and want to create their own blog sites. The project provides an easy way to create a blog site by editing the JSON file and adding as many indexes as needed.
 
