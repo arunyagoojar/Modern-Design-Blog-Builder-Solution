@@ -13,9 +13,7 @@ fetch('data.json')
         <h3>${post.title}</h3>
         <p>${post.date}</p>
         ${post.content.slice(0, post.content.indexOf('</p>') + 4)}
-        <a href="blog.html?title=${encodeURIComponent(post.title)}&date=${encodeURIComponent(post.date)}&content=${encodeURIComponent(post.content)}" target="_blank">Read more</a>
-      `;
-
+        <a href="blog.html?title=${encodeURIComponent(post.title)}&date=${encodeURIComponent(post.date)}" target="_blank">Read more</a>`;
       blogList.appendChild(preview);
     });
   });
