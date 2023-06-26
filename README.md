@@ -19,8 +19,8 @@ An example of the site can be seen [here](https://arunyagoojar.me/blog/index.htm
 ## Guide [here](https://arunyagoojar.me/blog/index.html)
 
 ## Images
-<img width="1680" alt="Screenshot 2023-06-26 at 11 18 59 AM" src="https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/dc306e64-ac61-4845-a569-32fd59225506">
-<img width="1680" alt="Screenshot 2023-06-26 at 11 19 16 AM" src="https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/602ad9d7-8be5-4be6-9717-686c964b663d">
+![Color tools for designers](https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/1d922433-701f-49da-8e6c-9cd70e18f642)
+![DevHacks](https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/96d02aec-6cd0-4e5e-b48e-00b5cd277db7)
 
 
 
