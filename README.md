@@ -16,3 +16,12 @@ The editing rules for the JSON content will soon be published. The basic structu
 
 An example of the site can be seen [here](https://arunyagoojar.me/blog/index.html). This will give you an idea of what the final product might look like once you have edited the JSON file to include your own content.
 
+## Guide [here](https://arunyagoojar.me/blog/index.html)
+
+## Images
+<img width="1680" alt="Screenshot 2023-06-26 at 11 18 59 AM" src="https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/dc306e64-ac61-4845-a569-32fd59225506">
+<img width="1680" alt="Screenshot 2023-06-26 at 11 19 16 AM" src="https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/602ad9d7-8be5-4be6-9717-686c964b663d">
+
+
+
+
