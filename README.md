@@ -21,12 +21,12 @@ An example of the site can be seen [here](https://arunyagoojar.me/blog/index.htm
 
 ## Images
 ### Old design
-![Color tools for designers](https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/1d922433-701f-49da-8e6c-9cd70e18f642)
 ![DevHacks](https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/96d02aec-6cd0-4e5e-b48e-00b5cd277db7)
+![Color tools for designers](https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/1d922433-701f-49da-8e6c-9cd70e18f642)
 
 ### New Design
-<img width="1680" alt="Screenshot 2023-07-03 at 3 21 34 PM" src="https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/a4e14494-18d7-494a-b171-50fba6c09a31">
 <img width="1680" alt="Screenshot 2023-07-03 at 3 21 27 PM" src="https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/d5b7808c-5a5d-4721-8240-06dac515f41f">
+<img width="1680" alt="Screenshot 2023-07-03 at 3 21 34 PM" src="https://github.com/arunyagoojar/Modern-Design-Blog-Builder-Solution/assets/71588718/a4e14494-18d7-494a-b171-50fba6c09a31">
 
 
 
