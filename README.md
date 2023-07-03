@@ -3,6 +3,7 @@
 This project is a solution for developers and technical people who have basic web development knowledge and want to create their own blog sites. The project provides an easy way to create a blog site by editing the JSON file and adding as many indexes as needed.
 
 I have used this theme by [Taylon, Chan](https://codepen.io/tin-fung-hk) :  [theme](https://codepen.io/tin-fung-hk/pen/rNpEPpM)
+or you can use the new blog template made by me :).
 
 ## How to Use?
 
